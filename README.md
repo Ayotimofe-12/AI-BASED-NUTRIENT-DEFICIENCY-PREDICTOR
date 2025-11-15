@@ -115,14 +115,15 @@ A simple and interactive **Streamlit web app** allows real-time prediction.
 git clone https://github.com/yourusername/nutrient-deficiency-predictor.git
 cd nutrient-deficiency-predictor
 2️⃣ Install Dependencies
+bash
 pip install -r requirements.txt
 3️⃣ Run the Streamlit App
+bash
 streamlit run app.py
 🌐 Live Demo
-https://ai-based-nutrient-deficiency-predictor-s4836posvyvkhphi7zwqqs.streamlit.app/.
+https://ai-based-nutrient-deficiency-predictor-s4836posvyvkhphi7zwqqs.streamlit.app.
 
 📈 Use Cases
-
 Students tracking nutrition
 
 Health and fitness applications
@@ -134,8 +135,8 @@ Personalized health assistants
 Early deficiency detection
 
 🔮 Future Improvements
-
 Add more nutrients to the model
+
 Improve proxy mapping using NLP (Text-to-Nutrient)
 
 Integrate direct nutrient databases (USDA, FAO)
@@ -145,11 +146,19 @@ Deploy as a REST API
 Add mobile-responsive UI
 
 🤝 Contributions
-
 Contributions, issues, and feature requests are welcome.
 Feel free to open a pull request.
 
 📧 Contact
-
 Name: Omolola Olorunnishola
+LinkedIn: (omolola olorunnishola)
 Email: (Olorunnisholalola@gmail.com)
+
+
+
+
+
+
+
+
+
