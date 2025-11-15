@@ -46,20 +46,28 @@ A simple and interactive **Streamlit web app** allows real-time prediction.
 
 ## 📁 Project Structure
 ├── data/
+
 │ ├── dietary.csv
+
 │ ├── demographics.csv
+
 │
 ├── notebooks/
+
 │ └── AI-Based Nutrient Predictor.ipynb
+
 │
 ├── model/
+
 │ ├── nutrient7_model_compressed.joblib
+
 │
 ├── app/
+
 │ ├── app.py
+
 │ └── requirements.txt
 
-> Update the structure based on your actual file names.
 
 ---
 
