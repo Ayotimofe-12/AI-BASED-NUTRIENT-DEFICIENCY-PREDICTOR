@@ -120,10 +120,11 @@ pip install -r requirements.txt
 3️⃣ Run the Streamlit App
 bash
 streamlit run app.py
-🌐 Live Demo
+
+## 🌐 Live Demo
 https://ai-based-nutrient-deficiency-predictor-s4836posvyvkhphi7zwqqs.streamlit.app.
 
-📈 Use Cases
+## 📈 Use Cases
 Students tracking nutrition
 
 Health and fitness applications
@@ -134,7 +135,7 @@ Personalized health assistants
 
 Early deficiency detection
 
-🔮 Future Improvements
+## 🔮 Future Improvements
 Add more nutrients to the model
 
 Improve proxy mapping using NLP (Text-to-Nutrient)
@@ -145,11 +146,11 @@ Deploy as a REST API
 
 Add mobile-responsive UI
 
-🤝 Contributions
+## 🤝 Contributions
 Contributions, issues, and feature requests are welcome.
 Feel free to open a pull request.
 
-📧 Contact
+## 📧 Contact
 Name: Omolola Olorunnishola
 LinkedIn: (omolola olorunnishola)
 Email: (Olorunnisholalola@gmail.com)
