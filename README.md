@@ -114,15 +114,11 @@ A simple and interactive **Streamlit web app** allows real-time prediction.
 ```bash
 git clone https://github.com/yourusername/nutrient-deficiency-predictor.git
 cd nutrient-deficiency-predictor
-
-### 2️⃣ Install Dependencies
+2️⃣ Install Dependencies
 pip install -r requirements.txt
-
-### 3️⃣ Run the Streamlit App
+3️⃣ Run the Streamlit App
 streamlit run app.py
-
-### 🌐 Live Demo
-
+🌐 Live Demo
 https://ai-based-nutrient-deficiency-predictor-s4836posvyvkhphi7zwqqs.streamlit.app/.
 
 📈 Use Cases
